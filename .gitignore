@@ -1,0 +1,12 @@
+#commentaire
+/CarreMagique/*.exe
+/CarreMagique/*.bak
+/CarreMagique/*.o
+/CarreMagique/*.$$$
+/CarreMagique/*.cfg
+/CarreMagique/*.ini
+/CarreMagique/*.err
+/CarreMagique/*.out
+/CarreMagiqueV2/*.bak
+/CarreMagiqueV2/*.exe
+/CarreMagiqueV2/*.o
